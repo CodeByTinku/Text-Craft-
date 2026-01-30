@@ -1,9 +1,8 @@
-# Rich Text Editor
+# 📝 Rich Text Editor
 
 A simple, lightweight, and efficient web-based Rich Text Editor built with HTML, CSS, and JavaScript. This tool allows users to create and format text with ease, featuring a clean interface and essential editing capabilities.
 
-## Features
-
+## ✨ Features
 This text editor supports a wide range of formatting options:
 
 *   **Text Styling:**
@@ -24,13 +23,19 @@ This text editor supports a wide range of formatting options:
     *   Customizable Text Color
     *   Customizable Highlight (Background) Color
 
-## Technologies Used
+## 🛠️ Technologies Used
 
-*   **HTML5:** For the structural content of the editor.
-*   **CSS3:** For styling the interface, ensuring a clean and responsive design.
-*   **JavaScript:** For handling all the logic, including text manipulation and button interactions.
-*   **FontAwesome:** For intuitive and modern icons.
-*   **Google Fonts:** Uses the 'Poppins' font for a modern look.
+*  🌐 **HTML5:** For the structural content of the editor.
+*  🎨 **CSS3:** For styling the interface, ensuring a clean and responsive design.
+*  ⚡ **JavaScript:** For handling all the logic, including text manipulation and button interactions.
+*  ⭐ **FontAwesome:** For intuitive and modern icons.
+*  🔤 **Google Fonts:** Uses the 'Poppins' font for a modern look.
+
+## 📸 Screenshots
+<img width="1732" height="843" alt="image" src="https://github.com/user-attachments/assets/d2665960-a803-4229-a020-e4287a20ab69" />
+
+## 🚀 Demo
+
 
 ## How to Use
 
