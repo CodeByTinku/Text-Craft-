@@ -34,8 +34,8 @@ This text editor supports a wide range of formatting options:
 ## 📸 Screenshots
 <img width="1732" height="843" alt="image" src="https://github.com/user-attachments/assets/d2665960-a803-4229-a020-e4287a20ab69" />
 
-## 🚀 Demo
-
+## 🚀 Demo 👇👇
+[![Click here](https://vercel.com/button)](https://text-craft-omega.vercel.app/)
 
 ## How to Use
 
